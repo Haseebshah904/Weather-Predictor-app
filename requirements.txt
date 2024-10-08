@@ -1,0 +1,4 @@
+streamlit==1.26.0
+tensorflow==2.13.0  # Adjust version if needed for your model
+Pillow==9.2.0       # For handling image processing (PIL)
+numpy==1.24.3
