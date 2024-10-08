@@ -1,5 +1,6 @@
 streamlit==1.26.0
-tensorflow==2.16.2  # Latest stable version from your error log
+tensorflow==2.16.2  # Adjust TensorFlow version as needed
 Pillow==9.2.0
 numpy==1.24.3
+setuptools==65.5.0  # Adding setuptools to handle distutils
 
